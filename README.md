@@ -28,7 +28,7 @@ Critérios obrigatórios:
 Critérios adicionais e pontos extras:
   
   - Colocar as modificações feitas em um branch especifica;
-  - Criptografar o atributo senha em AES 256bits;
+  - Criptografar o atributo senha em MD5;
   - Criar os scripts de execução seguindo o modelo de projeto gradle;
   - Descrição dos itens feitos nos commits;
   
